@@ -1,0 +1,36 @@
+body{
+  margin:0px;
+  background-color: pink;
+}
+h2{
+  text-align: center;
+  color: brown;
+}
+#word{
+  transform: translateY(60px);
+  color: brown;
+  text-align: center;
+}
+.btn{
+  text-align: center;
+  transform: translateY(50px);
+}
+.btn button{
+  background-color:bisque;
+  border: 1px solid;
+  width: 70px;
+  height: 30px;
+  margin:20px
+}
+#love{
+  text-align: center;
+  transform: translateY(50px);
+  color:brown;
+}
+.image{
+  animation: anim;
+  animation-duration:2s ;
+ 
+  transform: translateY(50px);
+  text-align: center;
+}
